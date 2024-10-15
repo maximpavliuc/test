@@ -63,5 +63,21 @@
     "front_camera": 13,
     "battery": 5000
   },
-  
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 8/512GB Ice Blue",
+    "weight": 200,
+    "memory": 256,
+    "diagonal": 6.5,
+    "resolution_width": 2340,
+    "resolution_height": 1080,
+    "price": 4314,
+    "link": "https://www.pandashop.md/ru/product/amsung-sm-a155-galaxy-a15-8gb-256gb-black-00736838/",
+    "ram": 8,
+    "cpu": "Mediatek Dimensity 6100+",
+    "main_camera": 50,
+    "front_camera": 13,
+    "battery": 5000
+  }
+
 ]
