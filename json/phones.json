@@ -49,35 +49,18 @@
   },
   {
     "brand": "Xiaomi",
-    "model": "Redmi Note 13 8/512GB Ice Blue",
-    "weight": 200,
-    "memory": 256,
-    "diagonal": 6.5,
-    "resolution_width": 2340,
-    "resolution_height": 1080,
-    "price": 4314,
-    "link": "https://www.pandashop.md/ru/product/amsung-sm-a155-galaxy-a15-8gb-256gb-black-00736838/",
-    "ram": 8,
-    "cpu": "Mediatek Dimensity 6100+",
+    "model": "14 12Gb/512Gb White",
+    "weight": 193,
+    "memory": 512,
+    "diagonal": 6.36,
+    "resolution_width": 2670,
+    "resolution_height": 1200,
+    "price": 18041,
+    "link": "https://www.pandashop.md/ru/product/bilnyj-telefon-xiaomi-14-12gb-512gb-white-00763613/",
+    "ram": 12,
+    "cpu": "Qualcomm Snapdragon 8 Gen 3",
     "main_camera": 50,
-    "front_camera": 13,
-    "battery": 5000
-  },
-  {
-    "brand": "Xiaomi",
-    "model": "Redmi Note 13 8/512GB Ice Blue",
-    "weight": 200,
-    "memory": 256,
-    "diagonal": 6.5,
-    "resolution_width": 2340,
-    "resolution_height": 1080,
-    "price": 4314,
-    "link": "https://www.pandashop.md/ru/product/amsung-sm-a155-galaxy-a15-8gb-256gb-black-00736838/",
-    "ram": 8,
-    "cpu": "Mediatek Dimensity 6100+",
-    "main_camera": 50,
-    "front_camera": 13,
-    "battery": 5000
+    "front_camera": 32,
+    "battery": 4610
   }
-
 ]
